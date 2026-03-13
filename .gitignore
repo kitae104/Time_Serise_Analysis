@@ -1,0 +1,25 @@
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+.venv311/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor and IDE settings
+.vscode/
+.idea/
+
+# OS-generated files
+Thumbs.db
+.DS_Store
